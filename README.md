@@ -17,8 +17,10 @@ models is an efficient and practical method to identify security-sensitive code 
 outperforms LLMs in terms of cost and operational utility, and provides a mechanism that
 materially improves security implementation and review workflows at scale.
 
+Please view the [PDF](ML_Approaches_to_Identifiy_Security_Hotspots_in_Code.pdf) in this repo to read the full paper.
+
 ---
-This work was performed in late 2024 and 2025; Approved for public sharing in late 2026.
+Timeframe: This work was performed in late 2024 and 2025; Approved for public sharing in late 2026.
 
 ---
 
